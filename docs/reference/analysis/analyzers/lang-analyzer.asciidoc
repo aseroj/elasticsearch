@@ -170,7 +170,7 @@ The `basque` analyzer could be reimplemented as a `custom` analyzer as follows:
 
 [source,js]
 ----------------------------------------------------
-PUT /armenian_example
+PUT /basque_example
 {
   "settings": {
     "analysis": {
